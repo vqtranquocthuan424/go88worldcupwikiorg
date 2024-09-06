@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Go88 - worldcupwiki.org - Link tải Go88 - Top game bài đổi thưởng uy tín
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Go88 <https://worldcupwiki.org/>`_ được biết như Top game bài đổi thưởng uy tín tại Việt Nam, ra mắt vào năm 2009 với mục tiêu cung cấp môi trường giải trí an toàn và chuyên nghiệp. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Địa chỉ: 28a Đường DC3, Sơn Kỳ, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-.. note::
+Phone: 0988116570. 
 
-   This project is under active development.
+Email: go88@worldcupwiki.org. 
 
-Contents
---------
+Website: https://worldcupwiki.org/
 
-.. toctree::
+Author: https://worldcupwiki.org/ceo-go88/
 
-   usage
-   api
+#go88 #taigo88 #linktaigo88 #gamebaidoithuong #gamedoithuong #gamedanhbaidoithuong #gamedoithuonguytin #topgamebaidoithuong
